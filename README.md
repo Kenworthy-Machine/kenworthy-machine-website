@@ -8,12 +8,6 @@ This repository contains the source code for the Kenworthy Machine website, a sm
 
 The website is live and can be visited at the following URL: [Kenworthy Machine Live Site](https://kenworthymachine.com/)
 
-## Team
-
-- **Alex** - Developer ([Alex's GitHub](https://github.com/alibacova))
-- **Archaa** - Developer ([Archaa's GitHub](https://github.com/avinashi10))
-- **Brett** - Developer ([Brett's GitHub](https://github.com/BrettEastman))
-- **Kayla** - Designer ([Kayla's Portfolio](https://kaylashovlowsky.wixsite.com/kaylashovlowskyuxdes))
 
 
 ## Tools and Tech Stack
