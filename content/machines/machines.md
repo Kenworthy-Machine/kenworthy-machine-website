@@ -32,7 +32,7 @@ machineCard:
       * Chip conveyor
     type: Mill
   - name: DOOSAN DNM400
-    image: /machines/Doosan-DNM-400-(year 2012).png
+    image: /doosan-400-500-600.png
     description: |
       * CNC vertical machining center
       * 18"x36" table
@@ -72,3 +72,4 @@ machineCard:
       * 8-station pallet shuttle station
     type: Mill
 ---
+
