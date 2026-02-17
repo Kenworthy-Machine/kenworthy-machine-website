@@ -1,5 +1,10 @@
 ---
 machineCard:
+  - name: Star SB-20RII Swiss Lathe w/ Leading Edge barfeeder
+    image: /csm_star_sb20rii_e670dc37c4.png
+    description: |
+      *
+    type: Lathe
   - name: ABERLINK Axiom TOO HS CMM
     image: /machines/Aberlink-Axiom-TOO-HS-CMM.png
     description: |
