@@ -1,5 +1,8 @@
 ---
 blocks:
+  - image: ''
+    heading: Machining Services
+    _template: hero
   - heading: Kenworthy Machine bolsters its turning department with a new Star SB-20RII Swiss Lathe with Leading Edge barfeeder.
     careerDescription: |
       This machine offers versatile, accurate and efficient production of parts up to .787” in diameter. This machine has technology that supports the part close to the cutting zone, improving accuracy and finish quality. It has versatile and powerful live tools so that many operations can be performed in the same setup. Most parts can be manufactured complete, without downstream operations. In addition, this machine has HFT (High Frequency Turning) which enables intermittent cutting to break chips more efficiently. 
@@ -7,9 +10,6 @@ blocks:
       We at Kenworthy are very excited to have this new capability and look forward to working with you on any parts manufacturing needs you may have.
     buttonLabel: Request a Quote
     _template: careerSection
-  - image: ''
-    heading: Machining Services
-    _template: hero
   - location: "Kenworthy Machine bolsters its turning department with a new Star SB-20RII Swiss Lathe with Leading Edge barfeeder.\_\n\nThis machine offers versatile, accurate and efficient production of parts up to .787” in diameter.\_This machine has technology that supports the part close to the cutting zone, improving accuracy and finish quality.\_ It has versatile and powerful live tools so that many operations can be performed in the same setup.\_ Most parts can be manufactured complete, without downstream operations.\_ In addition, this machine has HFT (High Frequency Turning) which enables intermittent cutting to break chips more efficiently.\_\n\nWe at Kenworthy are very excited to have this new capability and look forward to working with you on any parts manufacturing needs you may have."
     _template: location
   - backgroundImage: /machine-gear-background.png
