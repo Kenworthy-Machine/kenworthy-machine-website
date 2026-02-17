@@ -1,6 +1,6 @@
 ---
 machineCard:
-  - name: Star SB-20RII Swiss Lathe w/ Leading Edge barfeeder
+  - name: Star SB-20RII Swiss Lathe w/ Leading Edge Barfeeder
     image: /csm_star_sb20rii_e670dc37c4.png
     description: |
       *
