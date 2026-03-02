@@ -3,7 +3,9 @@ machineCard:
   - name: Star SB-20RII Swiss Lathe w/ Barfeeder
     image: /csm_star_sb20rii_e670dc37c4.png
     description: |
-      *
+      * .787” maximum turning diameter
+      * HFT (High Frequency Turning) technology
+      * Efficient and versatile high speed live tooling
     type: Lathe
   - name: ABERLINK Axiom TOO HS CMM
     image: /machines/Aberlink-Axiom-TOO-HS-CMM.png
