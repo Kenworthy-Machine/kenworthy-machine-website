@@ -3,6 +3,8 @@ blocks:
   - image: ''
     heading: Machining Services
     _template: hero
+  - location: 'Kenworthy Machine has expanded its turning capabilities with a new Star SB-20RII Swiss Lathe with Leading Edge barfeeder. This advanced equipment uses High Frequency Turning (HFT) to deliver versatile, efficient production and consistent, high-quality parts up to .787" in diameter. Powerful live tooling enables multiple operations to be completed in a single setup, with most parts completed without secondary processing. Guide bushing technology supports the work piece close to the cutting zone for improved accuracy and surface finish. We at Kenworthy are very excited to have this new capability and look forward to working with you on any parts manufacturing needs you may have.'
+    _template: location
   - backgroundImage: /machine-gear-background.png
     title: Kenworthy's Values
     quality1:
